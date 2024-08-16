@@ -1,11 +1,3 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
 ## Trip Planner
 
@@ -75,9 +67,17 @@ Setup
 
 Add Trips: Start by adding the trips you'll take during your vacation. Input details like start and end points, dates, duration, and gas consumption.
 
+<img width="1429" alt="Screen Shot 2024-08-17 at 00 35 23" src="https://github.com/user-attachments/assets/c720f7e0-619a-4026-bc9d-09e2f0e62484">
+
+
 Sort Trips: Use the sorting options to rearrange your trips based on your preferred criteria.
 
+<img width="1427" alt="Screen Shot 2024-08-17 at 00 44 10" src="https://github.com/user-attachments/assets/095cb870-eb1d-484f-83b6-e5259ed8522c">
+
+
 Visualize on Map: All your trips will be connected and displayed on the Google Map.
+
+<img width="1423" alt="Screen Shot 2024-08-17 at 00 45 50" src="https://github.com/user-attachments/assets/7975e6c6-ca40-4af8-843b-4a79b264a02e">
 
 
 ## Contribution
